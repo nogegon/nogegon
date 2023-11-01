@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nogegon
 - 👀 I’m interested by almost all technologies
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter projects
-- 📫 Now is not a good time to reach me. Busy... Busy... 
+- 🌱 I’m currently learning Pentesting
+- 💞️ I’m looking to collaborate on Security projects
+- 📫 Don't hesitate to reach me
 
 <!---
 nogegon/nogegon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
